@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fd73c63.css",
+    "main.js": "/static/js/main.2c07fc43.js",
+    "static/media/2.png": "/static/media/2.ae41a5660c68caadbfb2.png",
+    "static/media/1.png": "/static/media/1.47fdc5b976a712333373.png",
+    "static/media/partner.png": "/static/media/partner.6f490cf4bbc487fdc0a5.png",
+    "static/media/3.png": "/static/media/3.a1b1493f80ee11c8750f.png",
+    "static/media/6.png": "/static/media/6.63845fa25ad658e2be98.png",
+    "static/media/5.png": "/static/media/5.00421c29ffbed7c1577f.png",
+    "static/media/7.png": "/static/media/7.aeb645c10d2ddac81333.png",
+    "static/media/4.png": "/static/media/4.ba2ae4b4b79b72c662b3.png",
+    "static/media/back.png": "/static/media/back.3538e329bfe6f9fe4e99.png",
+    "static/media/panel.png": "/static/media/panel.40e42764613430696e15.png",
+    "static/media/statiom.png": "/static/media/statiom.9b088bedd822b4b09455.png",
+    "static/media/sun.png": "/static/media/sun.ec82cfada21025e48034.png",
+    "static/media/station.png": "/static/media/station.7058740671c01783ba84.png",
+    "static/media/img.png": "/static/media/img.7241540a86e889b91b6e.png",
+    "static/media/back2.png": "/static/media/back2.8218312f89e414c92c99.png",
+    "static/media/big.png": "/static/media/big.caaae1d8ab3fd41662c1.png",
+    "static/media/product.png": "/static/media/product.57cd0e01d768ecc613e4.png",
+    "static/media/Gilroy-Medium.woff": "/static/media/Gilroy-Medium.5329bc502cdc219ad294.woff",
+    "static/media/Gilroy-Bold.woff": "/static/media/Gilroy-Bold.0607a1bc636f63251ed8.woff",
+    "static/media/karona.png": "/static/media/karona.8fd5973eed856d937c67.png",
+    "static/media/why.png": "/static/media/why.05e39c859837193e5e15.png",
+    "static/media/min.png": "/static/media/min.a95b73a8614a9fa4c10f.png",
+    "static/media/Gilroy-Medium.woff2": "/static/media/Gilroy-Medium.acd4e613de34a826c191.woff2",
+    "static/media/Gilroy-Bold.woff2": "/static/media/Gilroy-Bold.ef7c40ff1efeaaa4c7c6.woff2",
+    "static/media/Gilroy-Extrabold.woff2": "/static/media/Gilroy-Extrabold.5c5942d3e4d9a9645df4.woff2",
+    "static/media/mediaWhy.png": "/static/media/mediaWhy.35a8f4eff0abc4e2e375.png",
+    "static/media/uz.png": "/static/media/uz.42c3297de383713b2b97.png",
+    "static/media/russian.svg": "/static/media/russian.2f38ba5f947a7c1a5edaee15d85bbf27.svg",
+    "static/media/kingdom.svg": "/static/media/kingdom.39cc3b81fdb37e6d638ed41bac6ca42c.svg",
+    "index.html": "/index.html",
+    "static/media/uzb.svg": "/static/media/uzb.224ec060f32e115488d52014b16d9dad.svg",
+    "main.2fd73c63.css.map": "/static/css/main.2fd73c63.css.map",
+    "main.2c07fc43.js.map": "/static/js/main.2c07fc43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd73c63.css",
+    "static/js/main.2c07fc43.js"
+  ]
+}
